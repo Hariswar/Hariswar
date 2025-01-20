@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently studying bachelors of computer science in Missouri University of Science and Technology. 
 
+I love to learn new coding languages, frameworks and many other technologies to gain deeper understanding of computer science and tech field. 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hariswar Baburaj) 
