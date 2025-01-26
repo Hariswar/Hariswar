@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hariswar baburaj
 I'm currently studying bachelors of computer science in Missouri University of Science and Technology. 
 
 I love to learn new coding languages, frameworks and many other technologies to gain deeper understanding of computer science and tech fields. 
