@@ -18,14 +18,7 @@ I love to learn new coding languages, frameworks and many other technologies to 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hariswar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Hariswar&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HariswarB)  
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
