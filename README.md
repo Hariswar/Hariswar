@@ -3,7 +3,7 @@ I'm currently studying bachelors of computer science in Missouri University of S
 
 I love to learn new coding languages, frameworks and many other technologies to gain deeper understanding of computer science and tech fields. I am also actively involved in Hackathon and enjoy improving my problem solving skills through HackerRank and LeetCode. 
 
-Email Me 👉 ✉️ [bkhariswar@gmail.com](mailto:bkhariswar@gmail.com) for Collaboration/Project or Anything Else 
+Email Me 👉 ✉️ [bkhariswar@gmail.com](mailto:bkhariswar@gmail.com) for Collaboration/Project or Anything Else 🙂
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Hariswar Baburaj](https://www.linkedin.com/in/hariswar-baburaj/)) 
 
